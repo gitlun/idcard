@@ -45,5 +45,10 @@
       "name": "navyxie",
       "email": "navyxie2010@gmail.com"
     }
+  ],
+  "files": [
+    "bin",
+    "lib",
+    "index.js"
   ]
 }
